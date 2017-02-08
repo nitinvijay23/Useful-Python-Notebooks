@@ -1,6 +1,6 @@
-# Cool-Python-Scripts
+# Cool-Python-Notebooks
 
-The repository contains some cool python 3 notebooks. 
+The repository contains some cool python 3 notebooks build using requests, beautifulsoup and other python libraries. 
 
 1. Google Image Downloader -
 
