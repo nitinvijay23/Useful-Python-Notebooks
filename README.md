@@ -14,3 +14,6 @@ The repository contains some cool python 3 notebooks build using requests, beaut
   
   Enter the name of movie and the year of release and there you go. Subtitle will be automatically downloaded from      http://www.subscene.co.in/
   
+ 4. Youtube video downloader
+ 
+  Enter the URL and chose the format and your video will be automatically downloaded. You no more need the ads ridden youtube downloader now. Just a simple python script and it is done.
