@@ -9,3 +9,8 @@ The repository contains some cool python 3 notebooks.
 2. XKCD Comics
 
   It downloads the images from XKCD web comics site and create a pdf of all the images.
+  
+ 3. Subtitle Downloader
+  
+  Enter the name of movie and the year of release and there you go. Subtitle will be automatically downloaded from      http://www.subscene.co.in/
+  
