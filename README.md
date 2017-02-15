@@ -17,3 +17,6 @@ The repository contains some cool python 3 notebooks build using requests, beaut
 4. Youtube video downloader
  
   Enter the URL and chose the format and your video will be automatically downloaded. You no more need the ads ridden youtube downloader now. Just a simple python script and it is done.
+
+5. Network Operators Data
+   This notebook will scrape the website http://mobikwik.com/ and create a csv file listing all the operators, states and plans offered in each state.
