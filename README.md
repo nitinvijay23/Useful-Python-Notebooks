@@ -20,3 +20,6 @@ The repository contains some cool python 3 notebooks build using requests, beaut
 
 5. Network Operators Data
    This notebook will scrape the website http://mobikwik.com/ and create a csv file listing all the operators, states and plans offered in each state.
+   
+6. Folder Cleaner
+   This notebook will move all the files in a folder and move them to a new folder.
